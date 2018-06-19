@@ -41,7 +41,7 @@ Find the row:
 ```
 Change to:  (xxx means your srilm location)
 ```cmd
-SRILM = /usr/xxx/srilm-1.7.2  
+SRILM = /usr/xxx/srilm-1.7.2  #make sure there is not any space on the command
 ```
 2. Change /Users/xxx/srilm-1.7.2/common /Makefile.machine.macosx file
 
