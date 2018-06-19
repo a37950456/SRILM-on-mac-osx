@@ -3,23 +3,27 @@ Speech recognition Spring 2018, NYUST
 
 A. Make sure you had download :
 
-1.1C/C++ compiler：gcc 3.4.3 or latest version.
+homebrew -- The missing package manager for macOS   https://github.com/Homebrew/brew
 
-2.Tcl toolkit: 7.3 or latest，command tclsh to check, if output is % that mean you didn't need to clone.(http://www.tcl.tk/software/tcltk/）
+1. C/C++ compiler：gcc 3.4.3 or latest version.
 
-3.GNU make
+2. Tcl toolkit: 7.3 or latest，command tclsh to check, if output is % that mean you didn't need to clone.(http://www.tcl.tk/software/tcltk/）
 
-4.GNU gawk
+3. GNU make  
+```cmd
+brew install make
+```
+4. GNU gawk
 
-5.GNU gzip
+5. GNU gzip
 
-6.bzip2（option）
+6. bzip2（option）
 
-7.P7zip（option）
+7. P7zip（option）
 
-8.xz(option）
+8. xz(option）
 
-9.csh：kinds of Unix shell
+9. csh：kinds of Unix shell
 
 You can use command to check if you had already download or not.
 ```cmd
