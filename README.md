@@ -21,7 +21,7 @@ A. Make sure you had download :
 
 9.csh：kinds of Unix shell
 
-You can command to check if you had already download.
+You can use command to check if you had already download or not.
 ```cmd
 gawk  --v
 ```
@@ -69,4 +69,8 @@ GAWK = /usr/bin/awk
 Change to
 ```cmd
 GAWK = /usr/bin/gawk
+```
+C. Go to /Users/xxx/srilm-1.7.2
+```cmd
+TinadeMacBook-Air-2:srilm-1.7.2 tinatsai$ make World
 ```
