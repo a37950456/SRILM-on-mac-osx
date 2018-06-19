@@ -25,7 +25,7 @@ brew install make
 
 9. csh：kinds of Unix shell
 
-You can use command to check if you had already download or not.
+You can use command '  --v' to check if you had already download or not.
 ```cmd
 gawk  --v
 ```
