@@ -78,3 +78,6 @@ C. Go to /Users/xxx/srilm-1.7.2
 ```cmd
 TinadeMacBook-Air-2:srilm-1.7.2 tinatsai$ make World
 ```
+```cmd
+TinadeMacBook-Air-2:srilm-1.7.2 tinatsai$ make test
+```
