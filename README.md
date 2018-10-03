@@ -1,4 +1,7 @@
 # SRILM-on-mac-osx
+
+Stanford Research Institute Language Modeling Toolkit(SRILM)   
+
 Speech recognition Spring 2018, NYUST
 
 A. Make sure you had download :
