@@ -85,3 +85,4 @@ TinadeMacBook-Air-2:srilm-1.7.2 tinatsai$ make World
 TinadeMacBook-Air-2:srilm-1.7.2 tinatsai$ make test
 ```
 
+cmd
